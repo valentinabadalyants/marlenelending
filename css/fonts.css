@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Marlene';
+    src: url('../fonts/Marlene-Medium/Marlene-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Marlene';
+    src: url('../fonts/Marlene-BoldItalic/Marlene-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Marlene';
+    src: url('../fonts/Marlene-Italic/Marlene-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Marlene';
+    src: url('../fonts/Marlene-LightItalic/Marlene-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Marlene';
+    src: url('../fonts/Marlene-MediumItalic/Marlene-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Marlene Grande';
+    src: url('../fonts/MarleneGrande-Light/MarleneGrande-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Marlene Grande';
+    src: url('../fonts/MarleneGrande-Medium/MarleneGrande-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Marlene Grande';
+    src: url('../fonts/MarleneGrande-Regular/MarleneGrande-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Marlene Grande';
+    src: url('../fonts/MarleneGrande-Italic/MarleneGrande-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Marlene Grande';
+    src: url('../fonts/MarleneGrande-BoldItalic/MarleneGrande-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
