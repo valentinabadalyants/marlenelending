@@ -120,6 +120,7 @@ body {
   width: 1440px;
   height: 1076px;
   position: relative;
+  overflow-x: hidden;
 }
 .letter {
   font-family: 'Marlene';
@@ -785,6 +786,7 @@ body {
   width: 1440px;
   height: 1387px;
   position: relative;
+  overflow-x: hidden;
 }
 .image11 {
   width: 1045.49px;
