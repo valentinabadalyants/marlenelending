@@ -18,11 +18,10 @@ body {
   height: 68px;
   transition: all .3s ease-out;
 }
-.krug:hover {
+/* .krug:hover {
   transform: scale(2);
   transition: all .3s ease-out;
-
-}
+} */
 .red {
   background: #DD4E0C;
   border-radius: 50%;
@@ -1197,10 +1196,6 @@ body {
   top: 1445px;
   left: 81px;
 }
-/* .types:hover {
-  transform: scale(1.5);
-  transition: all .5s ease-out;
-} */
 .t1 {
   position: absolute;
   top: 566px;
