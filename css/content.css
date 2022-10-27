@@ -601,7 +601,6 @@ body {
   position: absolute;
   top: 13.55px;
   right: -152.55px;
-  overflow: visible;
   z-index: 2;
 }
 .circle021 {
@@ -612,7 +611,6 @@ body {
   position: absolute;
   top: 68.17px;
   left: 447.3px;
-  overflow: visible;
   z-index: 3;
 }
 .circle031 {
@@ -623,7 +621,6 @@ body {
   position: absolute;
   top: 106.55px;
   left: 485.65px;
-  overflow: visible;
   z-index: 4;
 }
 .circle041 {
@@ -634,7 +631,6 @@ body {
   position: absolute;
   top: 155.76px;
   left: 531.89px;
-  overflow: visible;
   z-index: 5;
 }
 .circle051 {
@@ -645,7 +641,6 @@ body {
   position: absolute;
   top: 408.32px;
   left: 797.93px;
-  overflow: visible;
   z-index: 6;
 }
 .circle061 {
@@ -657,7 +652,6 @@ body {
   top: 572.58px;
   left: 958.37px;
   z-index: 7;
-  overflow: visible;
 }
 .fifth .musictxt {
   font-family: 'Marlene Grande';
