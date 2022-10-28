@@ -18,10 +18,10 @@ body {
   height: 68px;
   transition: all .3s ease-out;
 }
-/* .krug:hover {
+.krug:hover {
   transform: scale(2);
   transition: all .3s ease-out;
-} */
+}
 .red {
   background: #DD4E0C;
   border-radius: 50%;
